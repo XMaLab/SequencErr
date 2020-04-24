@@ -27,10 +27,11 @@ Following packages should be installed before using the [R](https://www.r-projec
 * pheatmap
 * RColorBrewer
 
-## Data:
+## Data
+Unzip the archives analysis.zip and data.zip
 Please find pairerror data used in this study in the folder "data/pairerror".
 
-## Figures:
+## Figures
 All figures and related codes can be found in the folder "analysis":
 
 1. Fig1.e,f,g: Fig1_flowcell/heatmap/*pdf
@@ -40,6 +41,6 @@ All figures and related codes can be found in the folder "analysis":
 5. FigS1 and FigS3: FigS13/*pdf
 6. FigS4 and FigS5: FigS45/*pdf
 
-## Codes and input data:
+## Codes and input data
 R codes and input data for each figure can be found in the same folder as figure with similar names.
 
