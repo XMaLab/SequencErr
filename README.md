@@ -18,9 +18,14 @@ Eric M Davis<sup>\*1</sup>, Yu Sun<sup>\*1,2</sup>, Yanling Liu<sup>\*1</sup>, P
 
 * </sup>\#</sup> To whom correspondence should be addressed: Xiaotu.Ma@stjude.org
 
+
+## SequencErr 
+
+**SequencErr** app is available on St. Jude Cloud at https://platform.dnanexus.com/app/sequencerr for non-profit research uses. 
+
 ## Requirements
 
-Following packages should be installed before using the [R](https://www.r-project.org/) scripts to generate figures. At the time of analysis [R](https://www.r-project.org/) v3.6.1 was used to generate the figures
+Following packages should be installed before using the [R](https://www.r-project.org/) scripts in this repository. At the time of analysis [R](https://www.r-project.org/) v3.6.1 was used to generate the figures.
 
 * beeswarm
 * ggpubr
