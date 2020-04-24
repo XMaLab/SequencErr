@@ -28,11 +28,11 @@ Following packages should be installed before using the [R](https://www.r-projec
 * RColorBrewer
 
 ## Data
-Unzip the archives analysis.zip and data.zip
-Please find pairerror data used in this study in the folder "data/pairerror".
+Unzip the archives _analysis.zip_ and _data.zip_
+Please find pairerror data used in this study in the folder _data/pairerror_.
 
 ## Figures
-All figures and related codes can be found in the folder "analysis":
+All figures and related codes can be found in the folder _analysis_:
 
 1. Fig1.e,f,g: Fig1_flowcell/heatmap/*pdf
 2. Fig2.a,b and FigS2: in Fig2ab_S2_cross_platform_instrument_comparison/*pdf
