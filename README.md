@@ -25,12 +25,16 @@ Eric M Davis<sup>\*1</sup>, Yu Sun<sup>\*1,2</sup>, Yanling Liu<sup>\*1</sup>, P
 
 ## Requirements
 
-Following packages should be installed before using the [R](https://www.r-project.org/) scripts in this repository. At the time of analysis [R](https://www.r-project.org/) v3.6.1 was used to generate the figures.
+Following packages and their respective dependencies should be installed before using the [R](https://www.r-project.org/) scripts in this repository. At the time of analysis [R](https://www.r-project.org/) v3.6.1 was used to generate the figures.
 
 * beeswarm
 * ggpubr
 * pheatmap
 * RColorBrewer
+
+```
+install.packages(c('beeswarm', 'ggpubr', 'pheatmap', 'RColorBrewer'), repos = 'http://cran.us.r-project.org', dependencies = TRUE)
+```
 
 ## Data
 Unzip the archives _analysis.zip_ and _data.zip_
