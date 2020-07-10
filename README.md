@@ -21,7 +21,7 @@ Eric M Davis<sup>\*1</sup>, Yu Sun<sup>\*1,2</sup>, Yanling Liu<sup>\*1</sup>, P
 
 ## SequencErr 
 
-**SequencErr** app is available on St. Jude Cloud at https://platform.dnanexus.com/app/sequencerr for non-profit research uses. 
+**SequencErr** app is available on St. Jude Cloud at https://platform.stjude.cloud/workflows/sequencerr for non-profit research uses. 
 
 ## Requirements
 
