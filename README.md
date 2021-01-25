@@ -2,7 +2,7 @@
 
 # SequencErr: measuring and suppressing sequencer errors in next generation sequencing
 
-Eric M Davis<sup>\*1</sup>, Yu Sun<sup>\*1,2</sup>, Yanling Liu<sup>\*1</sup>, Pandurang Kolekar<sup>1</sup>, Ying Shao<sup>1</sup>, Karol Szlachta<sup>1</sup>, Heather L Mulder<sup>1</sup>, Dongren Ren<sup>3</sup>, Stephen V Rice<sup>1</sup>, Zhaoming Wang<sup>4</sup>, Joy Nakitandwe<sup>5</sup>, Alex Gout<sup>1</sup>, Leslie L Robison<sup>4</sup>, Stanley Pounds<sup>6</sup>, Jefferey Klco<sup>5</sup>, John Easton<sup>1</sup>, Xiaotu Ma<sup>1\#</sup>
+Eric M Davis<sup>\*1</sup>, Yu Sun<sup>\*1,2</sup>, Yanling Liu<sup>\*1</sup>, Pandurang Kolekar<sup>1</sup>, Ying Shao<sup>1</sup>, Karol Szlachta<sup>1</sup>, Heather L Mulder<sup>1</sup>, Dongren Ren<sup>3</sup>, Stephen V Rice<sup>1</sup>, Zhaoming Wang<sup>4</sup>, Joy Nakitandwe<sup>5</sup>, Alex Gout<sup>1</sup>, Bridget Shaner<sup>1</sup>, Salina Hall<sup>6</sup>,Leslie L Robison<sup>4</sup>, Stanley Pounds<sup>7</sup>, Jefferey Klco<sup>5</sup>, John Easton<sup>1</sup>, Xiaotu Ma<sup>1\#</sup>
 
 * <sup>1</sup> Department of Computational Biology, St. Jude Children’s Research Hospital, Memphis, TN
 
@@ -14,7 +14,9 @@ Eric M Davis<sup>\*1</sup>, Yu Sun<sup>\*1,2</sup>, Yanling Liu<sup>\*1</sup>, P
 
 * <sup>5</sup> Department of Pathology, St. Jude Children's Research Hospital, Memphis, TN
 
-* <sup>6</sup> Department of Biostatistics, St. Jude Children's Research Hospital, Memphis, TN
+* <sup>6</sup> Discovery Life Sciences, Huntsville, AL
+
+* <sup>7</sup> Department of Biostatistics, St. Jude Children's Research Hospital, Memphis, TN
 
 * </sup>\#</sup> To whom correspondence should be addressed: Xiaotu.Ma@stjude.org
 
@@ -22,6 +24,10 @@ Eric M Davis<sup>\*1</sup>, Yu Sun<sup>\*1,2</sup>, Yanling Liu<sup>\*1</sup>, P
 ## SequencErr 
 
 **SequencErr** app is available on St. Jude Cloud at https://platform.stjude.cloud/workflows/sequencerr for non-profit research uses. 
+
+## Citation
+
+Davis, E.M. et al. SequencErr: measuring and suppressing sequencer errors in next-generation sequencing data. Genome Biol 22, 37 (2021). https://doi.org/10.1186/s13059-020-02254-2
 
 ## Requirements
 
