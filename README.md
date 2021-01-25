@@ -1,6 +1,6 @@
 ### Supplementary data and codes for 
 
-# SequencErr: measuring and suppressing sequencer errors in next generation sequencing
+# SequencErr: measuring and suppressing sequencer errors in next-generation sequencing data
 
 Eric M Davis<sup>\*1</sup>, Yu Sun<sup>\*1,2</sup>, Yanling Liu<sup>\*1</sup>, Pandurang Kolekar<sup>1</sup>, Ying Shao<sup>1</sup>, Karol Szlachta<sup>1</sup>, Heather L Mulder<sup>1</sup>, Dongren Ren<sup>3</sup>, Stephen V Rice<sup>1</sup>, Zhaoming Wang<sup>4</sup>, Joy Nakitandwe<sup>5</sup>, Alex Gout<sup>1</sup>, Bridget Shaner<sup>1</sup>, Salina Hall<sup>6</sup>,Leslie L Robison<sup>4</sup>, Stanley Pounds<sup>7</sup>, Jefferey Klco<sup>5</sup>, John Easton<sup>1</sup>, Xiaotu Ma<sup>1\#</sup>
 
